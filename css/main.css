@@ -15,8 +15,8 @@ html, body {
 
 body {
   font-family: 'Manrope', sans-serif;
-  background: #A2B3E3;
-  background: linear-gradient(315deg, #A2B3E3, #45B3BD);
+  background-image: linear-gradient(to right top, #e9b7ce, #ecbcd6, #eec2de, #f1c7e5, #f3cded, #ecd3f5, #e5dafb, #e0e0ff, #d4e7ff, #cdecfe, #cdf0f8, #d3f3f1);
+  border: 2px solid #000;
   padding-top: 30px;
   display: flex;
   justify-content: center;

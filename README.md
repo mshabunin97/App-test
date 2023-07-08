@@ -1,8 +1,8 @@
-# ToDo приложение
-
-Простое веб-приложение для управления списком дел (ToDo list). 
+# [ToDo приложение](https://mshabunin97.github.io/ToDo-App/)
 
 ![ToDo](img/Todo.png)
+
+Простое веб-приложение для управления списком дел (ToDo list). 
 
 ## Описание
 
@@ -42,5 +42,5 @@ ToDo Meister - это простое веб-приложение, которое
 - [Bootstrap](https://getbootstrap.com) v4.0.0
 - [Anime.js](https://animejs.com) v3.2.1
 
-Ссылки на проект :
+Ссылки на проект : https://mshabunin97.github.io/ToDo-App/
 

@@ -42,5 +42,5 @@ ToDo Meister - это простое веб-приложение, которое
 - [Bootstrap](https://getbootstrap.com)
 - [Anime.js](https://animejs.com) v3.2.1
 
-Ссылка на проект : https://mshabunin97.github.io/ToDo-App/
+Ссылка на проект для просмотра - https://mshabunin97.github.io/ToDo-App/
 

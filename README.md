@@ -39,8 +39,8 @@ ToDo Meister - это простое веб-приложение, которое
 
 Данное приложение использует следующие зависимости:
 
-- [Bootstrap](https://getbootstrap.com) v4.0.0
+- [Bootstrap](https://getbootstrap.com)
 - [Anime.js](https://animejs.com) v3.2.1
 
-Ссылки на проект : https://mshabunin97.github.io/ToDo-App/
+Ссылка на проект : https://mshabunin97.github.io/ToDo-App/
 
